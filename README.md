@@ -1,0 +1,1 @@
+This repository provides datasets, analysis scripts, and visualizations supporting the study of tidal triggering of earthquakes, focusing on New Moon vs. Full Moon alignments, lunar perigee, and sublunar/subsolar positions.
